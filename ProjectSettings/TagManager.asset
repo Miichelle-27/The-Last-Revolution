@@ -3,7 +3,16 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Bounds_Lobby
+  - Bounds_Level1
+  - Bounds_Level2
+  - Bounds_Level3
+  - Bounds_Level4
+  - Bounds_Level5
+  - Key
+  - Enemy
+  - Bounds_Level0
   layers:
   - Default
   - TransparentFX

@@ -1,27 +1,36 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using System;
 
 public class EnemyHealth : MonoBehaviour
 {
-    public int maxHealth = 100; // Salud máxima
-    private int _currentHealth; // Salud actual
-    public event Action OnDeath; // Evento al morir
+    [Header("Enemy Stats")]
+    public EnemyData enemyData; // ScriptableObject con los datos del enemigo
 
-    private void Start()
+    public int CurrentHealth { get; private set; } // Salud actual
+    public int MaxHealth { get; private set; }     // Salud máxima (copiada desde EnemyData)
+
+    public event Action OnDeath;
+
+    private void Awake()
     {
-        _currentHealth = maxHealth; // Inicializa la salud
+        if (enemyData == null)
+        {
+            Debug.LogError("EnemyHealth: Falta asignar EnemyData en el inspector.");
+            return;
+        }
+
+        MaxHealth = enemyData.maxHealth;
+        CurrentHealth = MaxHealth;
     }
 
-    // Aplica daño al enemigo
     public void TakeDamage(int damage)
     {
-        _currentHealth -= damage;
-        if (_currentHealth <= 0)
+        CurrentHealth = Mathf.Max(CurrentHealth - damage, 0);
+
+        if (CurrentHealth == 0)
         {
-            OnDeath?.Invoke(); // Notifica la muerte
-            Destroy(gameObject); // Destruye el enemigo
+            OnDeath?.Invoke();
+            Destroy(gameObject);
         }
     }
 }

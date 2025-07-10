@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 96
+  spritePixelsToUnits: 192
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -127,9 +127,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 1056
-        width: 96
-        height: 96
+        y: 960
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -147,10 +147,10 @@ TextureImporter:
       name: arena-Sheet_1
       rect:
         serializedVersion: 2
-        x: 96
-        y: 1056
-        width: 96
-        height: 96
+        x: 192
+        y: 960
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -168,10 +168,10 @@ TextureImporter:
       name: arena-Sheet_2
       rect:
         serializedVersion: 2
-        x: 192
-        y: 1056
-        width: 96
-        height: 96
+        x: 384
+        y: 960
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -189,10 +189,10 @@ TextureImporter:
       name: arena-Sheet_3
       rect:
         serializedVersion: 2
-        x: 288
-        y: 1056
-        width: 96
-        height: 96
+        x: 576
+        y: 960
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -210,10 +210,10 @@ TextureImporter:
       name: arena-Sheet_4
       rect:
         serializedVersion: 2
-        x: 384
-        y: 1056
-        width: 96
-        height: 96
+        x: 768
+        y: 960
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -231,10 +231,10 @@ TextureImporter:
       name: arena-Sheet_5
       rect:
         serializedVersion: 2
-        x: 480
-        y: 1056
-        width: 96
-        height: 96
+        x: 960
+        y: 960
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -252,10 +252,10 @@ TextureImporter:
       name: arena-Sheet_6
       rect:
         serializedVersion: 2
-        x: 576
-        y: 1056
-        width: 96
-        height: 96
+        x: 0
+        y: 768
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -273,10 +273,10 @@ TextureImporter:
       name: arena-Sheet_7
       rect:
         serializedVersion: 2
-        x: 672
-        y: 1056
-        width: 96
-        height: 96
+        x: 192
+        y: 768
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -294,10 +294,10 @@ TextureImporter:
       name: arena-Sheet_8
       rect:
         serializedVersion: 2
-        x: 768
-        y: 1056
-        width: 96
-        height: 96
+        x: 384
+        y: 768
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -315,10 +315,10 @@ TextureImporter:
       name: arena-Sheet_9
       rect:
         serializedVersion: 2
-        x: 864
-        y: 1056
-        width: 96
-        height: 96
+        x: 576
+        y: 768
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -336,10 +336,10 @@ TextureImporter:
       name: arena-Sheet_10
       rect:
         serializedVersion: 2
-        x: 960
-        y: 1056
-        width: 96
-        height: 96
+        x: 768
+        y: 768
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -357,10 +357,10 @@ TextureImporter:
       name: arena-Sheet_11
       rect:
         serializedVersion: 2
-        x: 1056
-        y: 1056
-        width: 96
-        height: 96
+        x: 960
+        y: 768
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -379,9 +379,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 960
-        width: 96
-        height: 96
+        y: 576
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -399,10 +399,10 @@ TextureImporter:
       name: arena-Sheet_13
       rect:
         serializedVersion: 2
-        x: 96
-        y: 960
-        width: 96
-        height: 96
+        x: 192
+        y: 576
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -420,10 +420,10 @@ TextureImporter:
       name: arena-Sheet_14
       rect:
         serializedVersion: 2
-        x: 192
-        y: 960
-        width: 96
-        height: 96
+        x: 384
+        y: 576
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -441,10 +441,10 @@ TextureImporter:
       name: arena-Sheet_15
       rect:
         serializedVersion: 2
-        x: 288
-        y: 960
-        width: 96
-        height: 96
+        x: 576
+        y: 576
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -462,10 +462,10 @@ TextureImporter:
       name: arena-Sheet_16
       rect:
         serializedVersion: 2
-        x: 384
-        y: 960
-        width: 96
-        height: 96
+        x: 768
+        y: 576
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -483,10 +483,10 @@ TextureImporter:
       name: arena-Sheet_17
       rect:
         serializedVersion: 2
-        x: 480
-        y: 960
-        width: 96
-        height: 96
+        x: 960
+        y: 576
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -504,10 +504,10 @@ TextureImporter:
       name: arena-Sheet_18
       rect:
         serializedVersion: 2
-        x: 576
-        y: 960
-        width: 96
-        height: 96
+        x: 0
+        y: 384
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -525,10 +525,10 @@ TextureImporter:
       name: arena-Sheet_19
       rect:
         serializedVersion: 2
-        x: 672
-        y: 960
-        width: 96
-        height: 96
+        x: 192
+        y: 384
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -546,10 +546,10 @@ TextureImporter:
       name: arena-Sheet_20
       rect:
         serializedVersion: 2
-        x: 768
-        y: 960
-        width: 96
-        height: 96
+        x: 384
+        y: 384
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -567,10 +567,10 @@ TextureImporter:
       name: arena-Sheet_21
       rect:
         serializedVersion: 2
-        x: 864
-        y: 960
-        width: 96
-        height: 96
+        x: 576
+        y: 384
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -588,10 +588,10 @@ TextureImporter:
       name: arena-Sheet_22
       rect:
         serializedVersion: 2
-        x: 960
-        y: 960
-        width: 96
-        height: 96
+        x: 768
+        y: 384
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -609,10 +609,10 @@ TextureImporter:
       name: arena-Sheet_23
       rect:
         serializedVersion: 2
-        x: 1056
-        y: 960
-        width: 96
-        height: 96
+        x: 960
+        y: 384
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -631,9 +631,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 864
-        width: 96
-        height: 96
+        y: 192
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -651,10 +651,10 @@ TextureImporter:
       name: arena-Sheet_25
       rect:
         serializedVersion: 2
-        x: 96
-        y: 864
-        width: 96
-        height: 96
+        x: 192
+        y: 192
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -672,10 +672,10 @@ TextureImporter:
       name: arena-Sheet_26
       rect:
         serializedVersion: 2
-        x: 192
-        y: 864
-        width: 96
-        height: 96
+        x: 384
+        y: 192
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -693,10 +693,10 @@ TextureImporter:
       name: arena-Sheet_27
       rect:
         serializedVersion: 2
-        x: 288
-        y: 864
-        width: 96
-        height: 96
+        x: 576
+        y: 192
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -714,10 +714,10 @@ TextureImporter:
       name: arena-Sheet_28
       rect:
         serializedVersion: 2
-        x: 384
-        y: 864
-        width: 96
-        height: 96
+        x: 768
+        y: 192
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -735,10 +735,10 @@ TextureImporter:
       name: arena-Sheet_29
       rect:
         serializedVersion: 2
-        x: 480
-        y: 864
-        width: 96
-        height: 96
+        x: 960
+        y: 192
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -756,10 +756,10 @@ TextureImporter:
       name: arena-Sheet_30
       rect:
         serializedVersion: 2
-        x: 576
-        y: 864
-        width: 96
-        height: 96
+        x: 0
+        y: 0
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -777,10 +777,10 @@ TextureImporter:
       name: arena-Sheet_31
       rect:
         serializedVersion: 2
-        x: 672
-        y: 864
-        width: 96
-        height: 96
+        x: 192
+        y: 0
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -798,10 +798,10 @@ TextureImporter:
       name: arena-Sheet_32
       rect:
         serializedVersion: 2
-        x: 768
-        y: 864
-        width: 96
-        height: 96
+        x: 384
+        y: 0
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -819,10 +819,10 @@ TextureImporter:
       name: arena-Sheet_33
       rect:
         serializedVersion: 2
-        x: 864
-        y: 864
-        width: 96
-        height: 96
+        x: 576
+        y: 0
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -840,10 +840,10 @@ TextureImporter:
       name: arena-Sheet_34
       rect:
         serializedVersion: 2
-        x: 960
-        y: 864
-        width: 96
-        height: 96
+        x: 768
+        y: 0
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -861,10 +861,10 @@ TextureImporter:
       name: arena-Sheet_35
       rect:
         serializedVersion: 2
-        x: 1056
-        y: 864
-        width: 96
-        height: 96
+        x: 960
+        y: 0
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -874,2274 +874,6 @@ TextureImporter:
       bones: []
       spriteID: 81b44a8c096dde34ab8aa92a1e53c82e
       internalID: 940564075
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_36
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 768
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6b369dac6e10288428fe6d79381f13fb
-      internalID: -1943192655
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_37
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 768
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 66baaab137ad1e5439fe04db39c8d2bb
-      internalID: -459651279
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_38
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 768
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2935ac259c6eb6847bbb0f544076d656
-      internalID: -2013882700
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_39
-      rect:
-        serializedVersion: 2
-        x: 288
-        y: 768
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5384a33c7c02b76499c2ca8ac6abf08b
-      internalID: -218327209
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_40
-      rect:
-        serializedVersion: 2
-        x: 384
-        y: 768
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4542fd95cb53ebe469f12a4c68281fbf
-      internalID: -2134192336
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_41
-      rect:
-        serializedVersion: 2
-        x: 480
-        y: 768
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 92395a930f1106c459d18b1f47ce3b8b
-      internalID: -1378992432
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_42
-      rect:
-        serializedVersion: 2
-        x: 576
-        y: 768
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: eb7aef9cdc5665f44b29d92ec7e81f69
-      internalID: 892768867
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_43
-      rect:
-        serializedVersion: 2
-        x: 672
-        y: 768
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: af0b142c2149e22459a6726bb6f36998
-      internalID: 983835354
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_44
-      rect:
-        serializedVersion: 2
-        x: 768
-        y: 768
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3a27c6fc04ca4d549bfd8718fd1ba6fb
-      internalID: 1695804325
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_45
-      rect:
-        serializedVersion: 2
-        x: 864
-        y: 768
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 663ff474ade6cad4897a22cf23e8a355
-      internalID: 912974590
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_46
-      rect:
-        serializedVersion: 2
-        x: 960
-        y: 768
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d779f262e50d98d45b7e6e0518f22a47
-      internalID: 1342459031
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_47
-      rect:
-        serializedVersion: 2
-        x: 1056
-        y: 768
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 79233d0d4bc0658479b3fba826781b23
-      internalID: -1257590698
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_48
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 672
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e4d7ef429caf7fd4f821351fc0f37018
-      internalID: 1259063296
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_49
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 672
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 039c7999619fbb14e9fdef190676381f
-      internalID: -343719792
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_50
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 672
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6ffc832d300a5c54e9b9c878847b21ed
-      internalID: -1041524909
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_51
-      rect:
-        serializedVersion: 2
-        x: 288
-        y: 672
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ad43d528be57e164a9d596132dcedd3f
-      internalID: -482516767
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_52
-      rect:
-        serializedVersion: 2
-        x: 384
-        y: 672
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 86d127d65d2d6464e8861b32bdbfd368
-      internalID: 2015079888
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_53
-      rect:
-        serializedVersion: 2
-        x: 480
-        y: 672
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8e820344b5a58a545a0bb25bdea5d015
-      internalID: 716343751
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_54
-      rect:
-        serializedVersion: 2
-        x: 576
-        y: 672
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e12b733cfe883644b95ab9e354f8dfde
-      internalID: 81677491
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_55
-      rect:
-        serializedVersion: 2
-        x: 672
-        y: 672
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 97a16e18f40235f4698cd4061b335a24
-      internalID: -949567147
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_56
-      rect:
-        serializedVersion: 2
-        x: 768
-        y: 672
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 18a0b5615e9eb5c4ea3ef7f84f867677
-      internalID: -1546588198
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_57
-      rect:
-        serializedVersion: 2
-        x: 864
-        y: 672
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7c2ede4c3f4c7824f8f51f66e94edc71
-      internalID: 859374597
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_58
-      rect:
-        serializedVersion: 2
-        x: 960
-        y: 672
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8d08d9ed3c5cee34a943d036aecd3f07
-      internalID: -125372981
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_59
-      rect:
-        serializedVersion: 2
-        x: 1056
-        y: 672
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1e21d0e9f51fbef488c173f73fdf872f
-      internalID: -551432855
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_60
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 576
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2fcdbda45ca32134eb8e73397a537987
-      internalID: 643249790
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_61
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 576
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 54cc474ff48958042b1f3195c43a94bc
-      internalID: -2023950280
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_62
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 576
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 96120ac9ce8f9be40af119b6ef23f77f
-      internalID: -940732545
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_63
-      rect:
-        serializedVersion: 2
-        x: 288
-        y: 576
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 490a152575c550a41a03a5e34ac3cc8b
-      internalID: -1753937862
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_64
-      rect:
-        serializedVersion: 2
-        x: 384
-        y: 576
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0fbbd455269cadd4e909a20ba6af63df
-      internalID: -101876146
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_65
-      rect:
-        serializedVersion: 2
-        x: 480
-        y: 576
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 96e3da8768e2ae24b9d9d324f9ac0f43
-      internalID: 899813795
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_66
-      rect:
-        serializedVersion: 2
-        x: 576
-        y: 576
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 79292d66ce381da4693866ccfbc805bb
-      internalID: 742853782
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_67
-      rect:
-        serializedVersion: 2
-        x: 672
-        y: 576
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4656acf1ab2f59a48aa6f86a5a30b7d8
-      internalID: 2103974851
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_68
-      rect:
-        serializedVersion: 2
-        x: 768
-        y: 576
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e105370dba6fc844f9ce6edcfa1a5b91
-      internalID: -1772211215
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_69
-      rect:
-        serializedVersion: 2
-        x: 864
-        y: 576
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f7cb332039339d1418702ace4b435b44
-      internalID: -790677799
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_70
-      rect:
-        serializedVersion: 2
-        x: 960
-        y: 576
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 90191500e1d334043b9637ba67f6a6f2
-      internalID: 1734906970
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_71
-      rect:
-        serializedVersion: 2
-        x: 1056
-        y: 576
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 89781c9d6a5c4984380ea8b4751e134a
-      internalID: 630806934
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_72
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 480
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 46303b5df807b8649ac3cd30bb028859
-      internalID: 1816603589
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_73
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 480
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 84f8dd9c9c18b33408ffc01bc5152ed7
-      internalID: 1903118549
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_74
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 480
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0d093197b8bae804e8bcb88e9e6b799d
-      internalID: -1050752908
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_75
-      rect:
-        serializedVersion: 2
-        x: 288
-        y: 480
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2b490dab56d543b4a93c0c00b50a53ac
-      internalID: 712742078
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_76
-      rect:
-        serializedVersion: 2
-        x: 384
-        y: 480
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 33b3c0c43cbd8a04387c3efa830cc011
-      internalID: -380292061
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_77
-      rect:
-        serializedVersion: 2
-        x: 480
-        y: 480
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 21a16445df0a48042bc74d6f68a73a0b
-      internalID: -1531270077
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_78
-      rect:
-        serializedVersion: 2
-        x: 576
-        y: 480
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3b0800e097a26fa4f91b83ea1376bff0
-      internalID: -161742268
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_79
-      rect:
-        serializedVersion: 2
-        x: 672
-        y: 480
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a2ea6f0e025f5ec4291ee2f98a82cebe
-      internalID: -519596480
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_80
-      rect:
-        serializedVersion: 2
-        x: 768
-        y: 480
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a907627f1161f7d49a6742ea25dfe82f
-      internalID: 730325540
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_81
-      rect:
-        serializedVersion: 2
-        x: 864
-        y: 480
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c65baa68b08458140aeb4925a0b067df
-      internalID: 1945439141
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_82
-      rect:
-        serializedVersion: 2
-        x: 960
-        y: 480
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 54ddbcba36d6cb84a9711c7205e4ae66
-      internalID: 1090813360
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_83
-      rect:
-        serializedVersion: 2
-        x: 1056
-        y: 480
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f3c599bb6ad845549bce658eea8ed6e0
-      internalID: -1288965466
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_84
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 384
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6458b02b19a39c648902b725e7ffb6ba
-      internalID: -1027905039
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_85
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 384
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1f545239f01966d4984768e9580998f1
-      internalID: -307897694
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_86
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 384
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a4ab274c7d292194c9683d0c05d608ea
-      internalID: -1520983687
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_87
-      rect:
-        serializedVersion: 2
-        x: 288
-        y: 384
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 25c744bdd98eaab468035220ca43645b
-      internalID: 1005688261
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_88
-      rect:
-        serializedVersion: 2
-        x: 384
-        y: 384
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ff80cdcfe74947f488ec01d3db911646
-      internalID: 1482399504
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_89
-      rect:
-        serializedVersion: 2
-        x: 480
-        y: 384
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8d1170cc028c5f04d99ad421833c54b3
-      internalID: 991505305
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_90
-      rect:
-        serializedVersion: 2
-        x: 576
-        y: 384
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ad418e4b7b220514e821a97b27236c84
-      internalID: 500325201
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_91
-      rect:
-        serializedVersion: 2
-        x: 672
-        y: 384
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a9b3573298db2184fa00c75cab6ae14a
-      internalID: -1299271862
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_92
-      rect:
-        serializedVersion: 2
-        x: 768
-        y: 384
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 315bc4efc987e9f4ea19577d0efd84f5
-      internalID: -2071169619
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_93
-      rect:
-        serializedVersion: 2
-        x: 864
-        y: 384
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2ff3cc8e0321bd548b22ebbeafccac12
-      internalID: 1403481592
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_94
-      rect:
-        serializedVersion: 2
-        x: 960
-        y: 384
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8b0db5bba1ba1c648a2b3defe7fc4cf3
-      internalID: 175442484
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_95
-      rect:
-        serializedVersion: 2
-        x: 1056
-        y: 384
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6e958935876c8ae44a0577b4815b6260
-      internalID: 550770218
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_96
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 288
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6e8ff3c8252c6b54aad5513c39e1090d
-      internalID: 1511802301
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_97
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 288
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4da2e72ec5c7e2e4ea5bbdf86737362b
-      internalID: -450437784
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_98
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 288
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8c485478a977c564e86675b95487bd58
-      internalID: 582566897
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_99
-      rect:
-        serializedVersion: 2
-        x: 288
-        y: 288
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4d06fcaafd9ff4145a7e63019ad1d7d6
-      internalID: 662927259
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_100
-      rect:
-        serializedVersion: 2
-        x: 384
-        y: 288
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3b366aefd55a7ef42aadfe70026d812a
-      internalID: -570877632
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_101
-      rect:
-        serializedVersion: 2
-        x: 480
-        y: 288
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2791665f60c776a40bdd6f516860a614
-      internalID: 234385274
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_102
-      rect:
-        serializedVersion: 2
-        x: 576
-        y: 288
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 16235ace6a632af47b82ebe808ec434e
-      internalID: -1068718952
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_103
-      rect:
-        serializedVersion: 2
-        x: 672
-        y: 288
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 78a0b60119cae394f8147d1a17aa75b4
-      internalID: 393309336
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_104
-      rect:
-        serializedVersion: 2
-        x: 768
-        y: 288
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b009195da9bf4424f8ee9196a2aea3e7
-      internalID: 330762796
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_105
-      rect:
-        serializedVersion: 2
-        x: 864
-        y: 288
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1b5891fb1fb9fb14980b441f6ae8a3dd
-      internalID: -294131017
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_106
-      rect:
-        serializedVersion: 2
-        x: 960
-        y: 288
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: aa890259486f9c543b653cc28ab43109
-      internalID: -1278820719
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_107
-      rect:
-        serializedVersion: 2
-        x: 1056
-        y: 288
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 85122546f53a6bc45b4260834e852170
-      internalID: -1023541870
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_108
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 192
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: aa332553904dec741bcccb51f4e887f3
-      internalID: 573890121
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_109
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 192
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d3a4b27afb9b75643ac43b410f82f1df
-      internalID: 2093459097
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_110
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 192
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c419b4b1c85cafb49bf439983a43b433
-      internalID: 785447606
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_111
-      rect:
-        serializedVersion: 2
-        x: 288
-        y: 192
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: eb165b4c8888003468e4b0fc5c0a5db9
-      internalID: 1760701013
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_112
-      rect:
-        serializedVersion: 2
-        x: 384
-        y: 192
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5e434eb9ee516e248af118e801a3f405
-      internalID: -1502439617
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_113
-      rect:
-        serializedVersion: 2
-        x: 480
-        y: 192
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c0d818a4d58de684aad110c295c723d8
-      internalID: -1326140062
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_114
-      rect:
-        serializedVersion: 2
-        x: 576
-        y: 192
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cb5e571fe1052f64ca91c8ad9a0d5fac
-      internalID: 610236071
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_115
-      rect:
-        serializedVersion: 2
-        x: 672
-        y: 192
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e68ecf92a99a329469fecdd1dcec957e
-      internalID: 1091705679
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_116
-      rect:
-        serializedVersion: 2
-        x: 768
-        y: 192
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 99134b24111a6a44681fb29d90f62363
-      internalID: 971350995
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_117
-      rect:
-        serializedVersion: 2
-        x: 864
-        y: 192
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0740ee4238500ad43a86e2b9b41b9ce4
-      internalID: -1795811473
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_118
-      rect:
-        serializedVersion: 2
-        x: 960
-        y: 192
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7fb1b53fde128944db6d4b1d53eff0d9
-      internalID: -424422334
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_119
-      rect:
-        serializedVersion: 2
-        x: 1056
-        y: 192
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 373f6b272527e114792aaf8a00bcba35
-      internalID: 1055511134
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_120
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 96
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cbf01ce1f1ae44a4d92e2c071975e387
-      internalID: -1356870925
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_121
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 96
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f4cf5251ae0b5274282631845723bfb3
-      internalID: 280089246
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_122
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 96
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6c645f30fa5c0744c9a58a6a9d09bcb0
-      internalID: -614316508
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_123
-      rect:
-        serializedVersion: 2
-        x: 288
-        y: 96
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ad2b3fa79c5596c49bb37de2a8316879
-      internalID: -628391324
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_124
-      rect:
-        serializedVersion: 2
-        x: 384
-        y: 96
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 76b9df51c8b19e6488132b6982c047ba
-      internalID: -937933489
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_125
-      rect:
-        serializedVersion: 2
-        x: 480
-        y: 96
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: abaf5efb40c14524db089a7f8b15166e
-      internalID: 355365471
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_126
-      rect:
-        serializedVersion: 2
-        x: 576
-        y: 96
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a4ae08349ec68644497fbf4d3f8d9329
-      internalID: -427213684
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_127
-      rect:
-        serializedVersion: 2
-        x: 672
-        y: 96
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 68cd98d65dd3fc6459faf7888ba9add4
-      internalID: -845041542
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_128
-      rect:
-        serializedVersion: 2
-        x: 768
-        y: 96
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 63f2d91b6e6dae8489e4c23321df1e13
-      internalID: 2120496242
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_129
-      rect:
-        serializedVersion: 2
-        x: 864
-        y: 96
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4b59f8b6a5e3a3944995d56d0b492ec0
-      internalID: 1522162682
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_130
-      rect:
-        serializedVersion: 2
-        x: 960
-        y: 96
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 26f195ff550c2424c8c5e5172d5a6157
-      internalID: 1456184945
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_131
-      rect:
-        serializedVersion: 2
-        x: 1056
-        y: 96
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5fcc4fc693fd5d04ea6b7db577fb3ca9
-      internalID: 116353209
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_132
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7549b489c5d17814babd8b0b5f068a65
-      internalID: -563876587
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_133
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 0
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 612e33984eee8ef4584fd01b0b73fbfc
-      internalID: -1733161477
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_134
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 0
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fbaa8d378f1e21d49827a116ead9fb51
-      internalID: -58436064
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_135
-      rect:
-        serializedVersion: 2
-        x: 288
-        y: 0
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b288c605b6d69e54081d5a12f1b2ab4d
-      internalID: -1363985925
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_136
-      rect:
-        serializedVersion: 2
-        x: 384
-        y: 0
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 49a2ac426ad1c9d4aaecb399582c1e24
-      internalID: 460259925
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_137
-      rect:
-        serializedVersion: 2
-        x: 480
-        y: 0
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 28d48fbd2c1ded54fa698b981063cf50
-      internalID: -146660246
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_138
-      rect:
-        serializedVersion: 2
-        x: 576
-        y: 0
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5a4a85057972fb2498d4585f3e3e4842
-      internalID: 265797736
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_139
-      rect:
-        serializedVersion: 2
-        x: 672
-        y: 0
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b779a9a3675b4c54292d5477a64df11d
-      internalID: -757469935
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_140
-      rect:
-        serializedVersion: 2
-        x: 768
-        y: 0
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b4a155e471e0620489fc00dfabd49486
-      internalID: -806222886
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_141
-      rect:
-        serializedVersion: 2
-        x: 864
-        y: 0
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 72963e10113983a4b89a29e1eb71175b
-      internalID: 1999143915
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_142
-      rect:
-        serializedVersion: 2
-        x: 960
-        y: 0
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fe4f1373e9fe93b489b944d3df697b8d
-      internalID: -1690112144
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arena-Sheet_143
-      rect:
-        serializedVersion: 2
-        x: 1056
-        y: 0
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 23a53811a1280724e96b92d522e58d07
-      internalID: 1639009108
       vertices: []
       indices: 
       edges: []
@@ -3160,54 +892,10 @@ TextureImporter:
       arena-Sheet_0: -193698764
       arena-Sheet_1: 308188564
       arena-Sheet_10: -1398949994
-      arena-Sheet_100: -570877632
-      arena-Sheet_101: 234385274
-      arena-Sheet_102: -1068718952
-      arena-Sheet_103: 393309336
-      arena-Sheet_104: 330762796
-      arena-Sheet_105: -294131017
-      arena-Sheet_106: -1278820719
-      arena-Sheet_107: -1023541870
-      arena-Sheet_108: 573890121
-      arena-Sheet_109: 2093459097
       arena-Sheet_11: 1488850647
-      arena-Sheet_110: 785447606
-      arena-Sheet_111: 1760701013
-      arena-Sheet_112: -1502439617
-      arena-Sheet_113: -1326140062
-      arena-Sheet_114: 610236071
-      arena-Sheet_115: 1091705679
-      arena-Sheet_116: 971350995
-      arena-Sheet_117: -1795811473
-      arena-Sheet_118: -424422334
-      arena-Sheet_119: 1055511134
       arena-Sheet_12: 1811893721
-      arena-Sheet_120: -1356870925
-      arena-Sheet_121: 280089246
-      arena-Sheet_122: -614316508
-      arena-Sheet_123: -628391324
-      arena-Sheet_124: -937933489
-      arena-Sheet_125: 355365471
-      arena-Sheet_126: -427213684
-      arena-Sheet_127: -845041542
-      arena-Sheet_128: 2120496242
-      arena-Sheet_129: 1522162682
       arena-Sheet_13: 1666473785
-      arena-Sheet_130: 1456184945
-      arena-Sheet_131: 116353209
-      arena-Sheet_132: -563876587
-      arena-Sheet_133: -1733161477
-      arena-Sheet_134: -58436064
-      arena-Sheet_135: -1363985925
-      arena-Sheet_136: 460259925
-      arena-Sheet_137: -146660246
-      arena-Sheet_138: 265797736
-      arena-Sheet_139: -757469935
       arena-Sheet_14: 140456912
-      arena-Sheet_140: -806222886
-      arena-Sheet_141: 1999143915
-      arena-Sheet_142: -1690112144
-      arena-Sheet_143: 1639009108
       arena-Sheet_15: -1189863019
       arena-Sheet_16: -716052095
       arena-Sheet_17: -1012445994
@@ -3231,76 +919,12 @@ TextureImporter:
       arena-Sheet_33: -1555286239
       arena-Sheet_34: 271758711
       arena-Sheet_35: 940564075
-      arena-Sheet_36: -1943192655
-      arena-Sheet_37: -459651279
-      arena-Sheet_38: -2013882700
-      arena-Sheet_39: -218327209
       arena-Sheet_4: -375648879
-      arena-Sheet_40: -2134192336
-      arena-Sheet_41: -1378992432
-      arena-Sheet_42: 892768867
-      arena-Sheet_43: 983835354
-      arena-Sheet_44: 1695804325
-      arena-Sheet_45: 912974590
-      arena-Sheet_46: 1342459031
-      arena-Sheet_47: -1257590698
-      arena-Sheet_48: 1259063296
-      arena-Sheet_49: -343719792
       arena-Sheet_5: 1127432291
-      arena-Sheet_50: -1041524909
-      arena-Sheet_51: -482516767
-      arena-Sheet_52: 2015079888
-      arena-Sheet_53: 716343751
-      arena-Sheet_54: 81677491
-      arena-Sheet_55: -949567147
-      arena-Sheet_56: -1546588198
-      arena-Sheet_57: 859374597
-      arena-Sheet_58: -125372981
-      arena-Sheet_59: -551432855
       arena-Sheet_6: -2075304305
-      arena-Sheet_60: 643249790
-      arena-Sheet_61: -2023950280
-      arena-Sheet_62: -940732545
-      arena-Sheet_63: -1753937862
-      arena-Sheet_64: -101876146
-      arena-Sheet_65: 899813795
-      arena-Sheet_66: 742853782
-      arena-Sheet_67: 2103974851
-      arena-Sheet_68: -1772211215
-      arena-Sheet_69: -790677799
       arena-Sheet_7: -1055043060
-      arena-Sheet_70: 1734906970
-      arena-Sheet_71: 630806934
-      arena-Sheet_72: 1816603589
-      arena-Sheet_73: 1903118549
-      arena-Sheet_74: -1050752908
-      arena-Sheet_75: 712742078
-      arena-Sheet_76: -380292061
-      arena-Sheet_77: -1531270077
-      arena-Sheet_78: -161742268
-      arena-Sheet_79: -519596480
       arena-Sheet_8: -1729334303
-      arena-Sheet_80: 730325540
-      arena-Sheet_81: 1945439141
-      arena-Sheet_82: 1090813360
-      arena-Sheet_83: -1288965466
-      arena-Sheet_84: -1027905039
-      arena-Sheet_85: -307897694
-      arena-Sheet_86: -1520983687
-      arena-Sheet_87: 1005688261
-      arena-Sheet_88: 1482399504
-      arena-Sheet_89: 991505305
       arena-Sheet_9: -1221294200
-      arena-Sheet_90: 500325201
-      arena-Sheet_91: -1299271862
-      arena-Sheet_92: -2071169619
-      arena-Sheet_93: 1403481592
-      arena-Sheet_94: 175442484
-      arena-Sheet_95: 550770218
-      arena-Sheet_96: 1511802301
-      arena-Sheet_97: -450437784
-      arena-Sheet_98: 582566897
-      arena-Sheet_99: 662927259
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

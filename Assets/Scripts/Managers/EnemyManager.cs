@@ -4,7 +4,55 @@ using UnityEngine;
 
 public class EnemyManager : MonoBehaviour
 {
-    public static EnemyManager Instance { get; private set; } // Singleton: instancia única
+    public static EnemyManager Instance { get; private set; }
+        [SerializeField] private GameObject enemyPrefab; // Prefab del enemigo
+        [SerializeField] private Transform[] spawnPointsPerLevel; // Array de puntos de spawn por nivel
+        private int _enemyCount = 0;
+        private GameObject _key;
+
+        private void Awake()
+        {
+            if (Instance == null) Instance = this;
+            else Destroy(gameObject);
+            _key = GameObject.FindWithTag("Key");
+        }
+
+        public void RegisterEnemy() => _enemyCount++;
+
+        public void UnregisterEnemy()
+        {
+            _enemyCount--;
+            if (_enemyCount <= 0 && _key != null) _key.SetActive(true);
+        }
+
+        public void SpawnEnemiesForLevel(int levelIndex)
+        {
+            _enemyCount = 0;
+            if (spawnPointsPerLevel == null || spawnPointsPerLevel.Length == 0)
+            {
+                Debug.LogWarning("No hay puntos de spawn asignados en EnemyManager!");
+                return;
+            }
+
+            // Asegura que levelIndex esté dentro de los límites (puede ser 0 a levels.Length - 1)
+            if (levelIndex < 0 || levelIndex >= spawnPointsPerLevel.Length)
+            {
+                Debug.LogError($"levelIndex {levelIndex} está fuera de los límites de spawnPointsPerLevel (longitud: {spawnPointsPerLevel.Length})!");
+                return;
+            }
+
+            Transform spawnPoint = spawnPointsPerLevel[levelIndex];
+            if (spawnPoint != null && enemyPrefab != null)
+            {
+                Instantiate(enemyPrefab, spawnPoint.position, Quaternion.identity);
+                _enemyCount++;
+            }
+        }
+
+        public void ClearEnemies() => _enemyCount = 0;
+    
+    
+    /*public static EnemyManager Instance { get; private set; } // Singleton: instancia única
     private List<GameObject> _activeEnemies = new List<GameObject>(); // Lista de enemigos activos
     private List<GameObject> _activeItems = new List<GameObject>(); // Lista de ítems activos
     public GameObject meleeEnemyPrefab; // Prefab base para enemigos melee
@@ -134,5 +182,5 @@ public class EnemyManager : MonoBehaviour
             }
         }
         _activeItems.Clear();
-    }
+    }*/
 }
